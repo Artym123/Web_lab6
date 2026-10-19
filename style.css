@@ -1,0 +1,10 @@
+/* Минимальные кастомные стили — всё остальное делает Bootstrap */
+
+#result {
+    font-weight: 600;
+}
+
+fieldset legend {
+    font-weight: 600;
+    color: #495057;
+}
