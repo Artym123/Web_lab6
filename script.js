@@ -87,4 +87,5 @@ window.addEventListener("DOMContentLoaded", function () {
 
     // Первичный расчёт при загрузке
     recalculate();
+
 });
